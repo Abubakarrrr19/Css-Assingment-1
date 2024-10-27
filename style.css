@@ -1,0 +1,56 @@
+.head{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(1, 130, 135);
+    border-radius: 70px;
+}
+.head li{
+    float: left;
+    list-style: none;
+    margin: -5px 5px;
+    padding-left: 10px;
+    
+}
+.head li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+}
+.hd{
+    color: white;
+    padding-left: 39px;
+}
+.hdd{
+    color: burlywood;
+}
+.hide{
+    color: rgb(146, 146, 8);
+}
+.pp{
+    color: coral;
+}
+.end{
+    background-color:rgb(1, 130, 135);
+}
+.end p{
+    color: white;
+}
+
+table{
+    text-align: center;
+}
+
+table .name{
+    padding: 10px;
+    width: 150px;
+}
+table .role{
+    padding: 10px;
+    width: 300px;
+}
+hr{
+    height: 10px;
+    background-color: rgb(67, 115, 115);
+    border: none;
+}
